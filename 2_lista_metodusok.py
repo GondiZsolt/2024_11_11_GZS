@@ -24,3 +24,4 @@ print(nyelvek.count('Py'))
 # NEM listametódus, de így lehet eldönteni, hogy egy elemet tartalmaz-e a lista
 print('C++' in nyelvek)
 print('C+++' in nyelvek)
+
